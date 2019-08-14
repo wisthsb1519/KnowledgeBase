@@ -4,7 +4,7 @@ The Algorand blockchain is a ‘Pure Proof of Stake’ blockchain based on votin
 
 ## Features
 
-The bounty will require a team of at least one. To get started, please stop by the Algorand table and say hello to the team. 
+The bounty will require a team of at least one. To get started, please stop by the Algorand table and say hello 👋 to the team!
 
 -   Feel free to use the Hackathon Lab Exercise to get started with all of the Algorand developer tools, which includes step by step instructions for: Getting Started, Private Network, Goal command line, AlgoExplorer, SDKs and Resources.
 -   Feel free to communicate and ask questions with others in the community on gitter or on discord
@@ -21,21 +21,21 @@ Using any of our dev tools qualifies your team for prizes. However, the judging 
 
 An example solution would be to: Build a solution for easy account management using one our SDK’s, the solution should be able to:
 
-    -  Create and sign txns, do the same with multisig accounts, recover accounts from mnemonic
-    -  Bonus: Build a UI for the solution (command line, web based or other) in any language. There is a webapp example is in the JavaScript SDK.
+-  Create and sign txns, do the same with multisig accounts, recover accounts from mnemonic
+-  Bonus: Build a UI for the solution (command line, web based or other) in any language. There is a webapp example is in the JavaScript SDK.
 
 ## Prizes Offered
 
-1. Best Overall Application
-2. Best In-Theme Application
-3. Best User-Experience Application
+- [Best Overall Application 💎](https://github.com/ethberlinzwei/Bounties/issues/13#issue-480452793)
+- [Best User-Experience Application 🔮](https://github.com/ethberlinzwei/Bounties/issues/14)
+- [Best In-Theme Application 🎨](https://github.com/ethberlinzwei/Bounties/issues/15)
 
 ## Evaluation Team
 
 The evaluation team is comprised of members of the Algorand product and developer relations team. We are here for:
 Helping on technical questions and better understanding our technology stack with respect to your hackathon application
-Selecting the 4 winning teams that will receive our prizes and get recognition on socials!
-Advising you on getting more involved in our amazing community and ecosystem 
+Selecting the winning teams that will receive our prizes and get recognition on socials!
+Advising you on getting more involved in our amazing community and ecosystem! 
 We are @samabbassi (Sam), @RussFustino (Russ), @liz (Liz)
 
 
@@ -45,7 +45,7 @@ Here is a Lab Exercise and Sample Code on getting started for the Hackathon. The
 
 Get your own node up and running, please refer to our docs
 -   [goal CLI](https://developer.algorand.org/docs/using-goal)
-    -[REST APIs](https://developer.algorand.org/docs/using-sdks-and-rest-apis)
+-   [REST APIs](https://developer.algorand.org/docs/using-sdks-and-rest-apis)
 -   [Go SDK](https://developer.algorand.org/docs/go-sdk)
 -   [JS SDK](https://developer.algorand.org/docs/javascript-sdk)
 -   [Java SDK](https://developer.algorand.org/docs/java-sdk)
@@ -62,4 +62,4 @@ Community Resources:
 -   [Algorand Forums](https://forum.algorand.org/)
 -   [Gitter Community](https://gitter.im/algorand-ethzweihack/community)
 -   [Discord](https://discord.gg/SqNRnw7)
--   [Reddit](htps://www.reddit.com/r/algorand/)
+-   [Reddit](https://www.reddit.com/r/algorand/)
